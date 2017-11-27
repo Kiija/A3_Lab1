@@ -1,1 +1,1 @@
-# A3_Lab1
+This application was made for an inclass lab. This application will allow the user to click the car thumbnails in order to view the car details. When the thumbnail is selected the car data will be retrieved and populate the section on the index page. The other cars should fade when one is selected.
